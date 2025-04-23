@@ -1,4 +1,4 @@
-# Rust TUI Cross-Chain Swap Demo
+# Rust TUI Garden Swap Demo
 
 This repository demonstrates how to perform cross-chain swaps using the Garden API through a Terminal User Interface (TUI) built with Rust. The application provides an interactive way to understand and execute the swap process across different blockchains.
 
