@@ -5,7 +5,7 @@ edition = "2021"
 
 [[bin]]
 name = "order_script"
-path = "src/order_script.rs"
+path = "src/flow.rs"
 
 [dependencies]
 anyhow = "1.0.97"
